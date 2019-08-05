@@ -1,0 +1,14 @@
+{% extends 'libro/base.html' %}
+{%  block title_page %} autor {% endblock %}
+{% load bootstrap4 %}
+{% block content %}
+     <div class="col-sm-6 offset-2">
+         <form method="POST" role="form">
+           {% csrf_token %}
+           {% bootstrap_form author_form %}
+           <button type="submit" class="btn btn-primary"> Crear Autor </button>
+         </form>
+     </div>
+     {% bootstrap_alert "Something went wrong" alert_type='error' %}
+
+{% endblock %}

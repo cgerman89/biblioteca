@@ -1,0 +1,42 @@
+{% extends 'libro/base.html' %}
+{%  block title_page %} home {% endblock %}
+{% load bootstrap4 %}
+{% block content %}
+    {% if autores %}
+
+            <table class="table table-bordered table-striped table-hover" id="table_author">
+                <thead>
+                   <tr>
+                       <th>ID</th>
+                       <th>Nombre</th>
+                       <th>Apellido</th>
+                       <th>Nacionalidad</th>
+                       <th>Descripcion</th>
+                       <th>Opciones</th>
+                   </tr>
+                </thead>
+                <tbody>
+                   {% for  autor in autores  %}
+                       <tr>
+                          <td>{{ autor.id }}</td>
+                          <td> {{ autor.name }} </td>
+                          <td> {{ autor.lastname }} </td>
+                          <td> {{ autor.nationality }} </td>
+                          <td> {{ autor.description }} </td>
+                          <td>
+                              <a href="{{ autor.id }}" class="btn btn-warning">Edit</a>
+                          </td>
+                       </tr>
+                   {% endfor %}
+                </tbody>
+            </table>
+
+    {% else %}
+        <h1 class="card-title"> No Hay Autores registrados</h1>
+    {%  endif %}
+{% endblock %}
+{% block js_scripts %}
+    <script type="text/javascript">
+        $('#table_author').DataTable({});
+    </script>
+{% endblock %}

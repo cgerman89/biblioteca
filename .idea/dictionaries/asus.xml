@@ -4,10 +4,14 @@
       <w>autor</w>
       <w>autores</w>
       <w>biblioteca</w>
+      <w>crear</w>
+      <w>createauthor</w>
       <w>descripcion</w>
       <w>lastname</w>
       <w>libro</w>
       <w>libros</w>
+      <w>listar</w>
+      <w>listauthor</w>
       <w>nacionaliti</w>
       <w>postgresql</w>
       <w>pythonpath</w>

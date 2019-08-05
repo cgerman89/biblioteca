@@ -4,9 +4,9 @@ from django.db import models
 # Create your models here.
 class Autor(models.Model):
     id = models.AutoField(primary_key=True)
-    name = models.CharField(max_length=200, blank=False)
-    lastname = models.CharField(max_length=200)
-    nationality = models.CharField(max_length=100, blank=False, null=False)
+    name = models.CharField(max_length=200, blank=False, verbose_name='Nombre')
+    lastname = models.CharField(max_length=200, verbose_name='Apellido')
+    nationality = models.CharField(max_length=100, blank=False, null=False, verbose_name='Nacionalidad')
     description = models.CharField(blank=False, max_length=200, null=False, verbose_name='Descripcion')
     date_create = models.DateField('Fecha Creacion', auto_now=True, auto_now_add=False)
 

@@ -1,7 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcfb5868-d8f3-44df-88bf-72a0892ce120" name="Default Changelist" comment="" />
+    <list default="true" id="dcfb5868-d8f3-44df-88bf-72a0892ce120" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/migrations/0005_auto_20190804_2131.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/Bootstrap-4-4.1.1/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/Bootstrap-4-4.1.1/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/Bootstrap-4-4.1.1/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/Bootstrap-4-4.1.1/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/Bootstrap-4-4.1.1/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/Bootstrap-4-4.1.1/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/css/dataTables.bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/css/dataTables.bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/css/dataTables.bootstrap4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/css/dataTables.bootstrap4.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/css/dataTables.foundation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/css/dataTables.foundation.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/css/dataTables.jqueryui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/css/dataTables.jqueryui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/css/dataTables.semanticui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/css/dataTables.semanticui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/css/jquery.dataTables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/css/jquery.dataTables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/images/sort_asc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/images/sort_asc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/images/sort_both.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/images/sort_desc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/images/sort_desc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/js/dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/js/dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/js/dataTables.bootstrap4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/js/dataTables.bootstrap4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/js/dataTables.foundation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/js/dataTables.foundation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/js/dataTables.jqueryui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/js/dataTables.jqueryui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/js/dataTables.semanticui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/js/dataTables.semanticui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/js/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/DataTables-1.10.18/js/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/datatables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/datatables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/datatables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/datatables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/jQuery-3.3.1/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/DataTables/jQuery-3.3.1/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/bootstrap-4.3.1-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/static/libro/vendor/jquey/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/templates/libro/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/templates/libro/create_author.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/templates/libro/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/libro/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/asus.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/asus.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/libro/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/libro/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/libro/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/libro/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteca/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteca/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca/urls.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,14 +90,29 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Of7trMq97lIlhYoe4QsZK2Cc2j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\Desktop\app_django\biblioteca\apps\libro" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -73,10 +163,29 @@
       <updated>1564357014715</updated>
       <workItem from="1564357015986" duration="10961000" />
       <workItem from="1564712617193" duration="10519000" />
+      <workItem from="1564757792090" duration="985000" />
+      <workItem from="1564857356061" duration="519000" />
+      <workItem from="1564955262373" duration="18138000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
